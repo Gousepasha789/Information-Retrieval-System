@@ -8,3 +8,4 @@ Text_Normalization_Techniques- (https://github.com/Gousepasha789/Information-Ret
 
 Lab-03
 Perform Stemming, Tokenization, and Lemmatization- (https://github.com/Gousepasha789/Information-Retrieval-System/blob/main/Stemming%2C_Tokenization%2C_and_Lemmatization.ipynb)
+(https://github.com/Gousepasha789/Information-Retrieval-System/blob/main/Tokenization_bow_lemmatization.ipynb)
