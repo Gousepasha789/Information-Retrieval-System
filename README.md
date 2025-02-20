@@ -12,3 +12,6 @@ Perform Stemming, Tokenization, and Lemmatization- (https://github.com/Gousepash
 
 Lab-04
 Implement Word Analysis and Word Generation-(https://github.com/Gousepasha789/Information-Retrieval-System/blob/main/Implement_Word_Analysis_and_Word_Generation.ipynb)
+
+Lab-05
+Perform Morphological Analysis-(https://github.com/Gousepasha789/Information-Retrieval-System/blob/main/Perform_Morphological_Analysis.ipynb)
